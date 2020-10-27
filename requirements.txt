@@ -26,7 +26,7 @@ colorama==0.4.1
 colosseum==0.2.0
 constantly==15.1.0
 cookiecutter==1.6.0
-cryptography==2.9.2
+cryptography==3.2
 cx-Oracle==7.2.3
 cycler==0.10.0
 daphne==2.5.0
