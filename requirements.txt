@@ -33,7 +33,7 @@ daphne==2.5.0
 decorator==4.4.1
 defusedxml==0.6.0
 distlib==0.3.0
-Django==3.0.7
+Django==3.0.14
 django-crispy-forms==1.9.1
 django-telegrambot==1.0.1
 docutils==0.15.2
